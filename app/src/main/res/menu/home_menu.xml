@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:title="test"
+        android:id="@+id/test" />
+    <item
+        android:id="@+id/action_impostazioni"
+        android:title="Impostazioni" />
+    <item
+        android:id="@+id/action_franco"
+        android:title="Franco" />
+</menu>
